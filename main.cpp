@@ -189,6 +189,15 @@ int main() {
      cout << "Exiting the application.\n";
       cout << "Exiting the application.\n";
        cout << "Exiting the application.\n";
+       cout << "\nMusic Playlist Menu:\n";
+        cout << "1. Insert a song at the beginning\n";
+        cout << "2. Insert a song at the end\n";
+        cout << "3. Insert a song at a specific position\n";
+        cout << "4. Delete a song from the beginning\n";
+        cout << "5. Delete a song from the end\n";
+        cout << "6. Delete a song from a specific position\n";
+        cout << "7. Display the playlist\n";
+        cout << "8. Exit\n";
 
     return 0;
 }
